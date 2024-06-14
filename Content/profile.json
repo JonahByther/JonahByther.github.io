@@ -33,17 +33,17 @@
     "DetailImages": ["SupremeCard.jpg", "SupremeCard.jpg", "SupremeCard.jpg"]
     },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
+    "DetailImages": []
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Title": "",
+    "Desc": "",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
+    "MainImage": "",
     "DetailImages": []
   },
   "Project4": {
