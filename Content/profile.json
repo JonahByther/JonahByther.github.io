@@ -8,16 +8,15 @@
 },
 "Contact": {
   "EMail": "bytherj@spu.edu",
-  "Phone": "(425) 219-9370",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com/jonahbyther",
-  "GitHub": "https://www.github.com"
+  "Portfolio": "https://www.github.com/JonahByther",
+  "LinkedIn": "https://linkedin.com/jonah-byther",
+  "GitHub": "https://www.github.com/JonahByther"
 },
 "Experience": {
   "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
-  "Graduation": "June 2023",
+  "Graduation": "June 2025",
   "EducationText": "Use this to add some narrative to your education section",
   "Employment": "Seattle Pacific University",
   "Role": "Computer Science Lab Assistant",
@@ -32,26 +31,5 @@
     "GitHubRepo": "https://github.com/JonahByther/CSC3150-System-Design",
     "MainImage": "SupremeCard.jpg",
     "DetailImages": ["SupremeCard.jpg","SupremeCard.jpg","SupremeCard.jpg"]
-  },
-  "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
-  },
-  "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
-  },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
   }
 }
