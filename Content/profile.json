@@ -1,35 +1,35 @@
 {
-"About": {
-  "Name": "Jonah Byther",
-  "Currently": "Computer Science Student",
-  "Headshot": "you.JPG",
-  "Thumbnail": "you.JPG",
-  "AboutText": "Hi, I am Jonah Byther. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
-},
-"Contact": {
-  "EMail": "bytherj@spu.edu",
-  "Portfolio": "https://www.github.com/JonahByther",
-  "LinkedIn": "https://linkedin.com/jonah-byther",
-  "GitHub": "https://www.github.com/JonahByther"
-},
-"Experience": {
-  "ExperienceText": "I have held my position at safeway for over 4 years now, and I do not plan on leaving until I get a full time job as a software engineer. I am an efficient worker and I am able to learn fast and learn anything put in front of me. If there is a challenge, I will tackle the challenge head on and I will make sure I figure it out. I am good at working with other people aswell.",
-  "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2025",
-  "EducationText": "I am currently going for my BS degree in computer science, and also minors in mathematics and data analytics.",
-  "Employment": "Safeway",
-  "Role": "Produce Clerk",
-  "EmploymentText": "I go through the produce and trhow away all the bad produce and put out the good produce.",
-  "Skills": ["C++", " JavaScript", " CSS"," HTML", " Rust"],
-  "SkillsText": "I am a fast learner, have good people skills, and have great attention to detail.",
-  "Resume": "Resume 1.docx"  
-},
-"Project1": {
+  "About": {
+    "Name": "Jonah Byther",
+    "Currently": "Computer Science Student",
+    "Headshot": "you.JPG",
+    "Thumbnail": "you.JPG",
+    "AboutText": "Hi, I am Jonah Byther. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  },
+  "Contact": {
+    "EMail": "bytherj@spu.edu",
+    "Portfolio": "https://www.github.com/JonahByther",
+    "LinkedIn": "https://linkedin.com/jonah-byther",
+    "GitHub": "https://www.github.com/JonahByther"
+  },
+  "Experience": {
+    "ExperienceText": "I have held my position at Safeway for over 4 years now, and I do not plan on leaving until I get a full time job as a software engineer. I am an efficient worker and I am able to learn fast and learn anything put in front of me. If there is a challenge, I will tackle the challenge head on and I will make sure I figure it out. I am good at working with other people as well.",
+    "School": "Seattle Pacific University",
+    "Major": "Computer Science",
+    "Graduation": "June 2025",
+    "EducationText": "I am currently going for my BS degree in computer science, and also minors in mathematics and data analytics.",
+    "Employment": "Safeway",
+    "Role": "Produce Clerk",
+    "EmploymentText": "I go through the produce and throw away all the bad produce and put out the good produce.",
+    "Skills": ["C++", "JavaScript", "CSS", "HTML", "Rust"],
+    "SkillsText": "I am a fast learner, have good people skills, and have great attention to detail.",
+    "Resume": "Resume 1.docx"
+  },
+  "Project1": {
     "Title": "The Supreme Card",
     "Desc": "This project is the future of the Digital Wallet. Never make another decision of what credit card to use again",
     "GitHubRepo": "https://github.com/JonahByther/CSC3150-System-Design",
     "MainImage": "SupremeCard.jpg",
-    "DetailImages": ["SupremeCard.jpg","SupremeCard.jpg","SupremeCard.jpg"]
+    "DetailImages": ["SupremeCard.jpg", "SupremeCard.jpg", "SupremeCard.jpg"]
   }
 }
