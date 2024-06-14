@@ -13,16 +13,17 @@
   "GitHub": "https://www.github.com/JonahByther"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I have held my position at safeway for over 4 years now, and I do not plan on leaving until I get a full time job as a software engineer. I am an efficient worker and I am able to learn fast and learn anything 
+  put in front of me. If there is a challenge, I will tackle the challenge head on and I will make sure I figure it out.",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Graduation": "June 2025",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "EducationText": "I am currently going for my BS degree in computer science, and also minors in mathematics and data analytics.",
+  "Employment": "Safeway",
+  "Role": "Produce Clerk",
+  "EmploymentText": "I go through the produce and trhow away all the bad produce and put out the good produce.",
+  "Skills": ["C++", " JavaScript", " CSS"," HTML", " Rust"],
+  "SkillsText": "I am a fast learner, have good people skills, and have great attention to detail.",
   "Resume": "Resume 1.docx"  
 },
 "Project1": {
