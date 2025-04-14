@@ -37,7 +37,7 @@
     "Desc": "Analysis on different types of cancer and their effects on the world",
     "GitHubRepo": "https://jonahbyther.shinyapps.io/cancerworld/",
     "MainImage": "World.JPG",
-    "DetailImages": ["SupremeCard.jpg", "SupremeCard.jpg", "SupremeCard.jpg"]
+    "DetailImages": ["cancer.JPG", "cancer.JPG", "cancer.JPG"]
   },
   "Project3": {
     "Title": "",
