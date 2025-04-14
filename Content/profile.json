@@ -33,11 +33,11 @@
     "DetailImages": ["SupremeCard.jpg", "SupremeCard.jpg", "SupremeCard.jpg"]
     },
   "Project2": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
+    "Title": "Data analysis on cancer in the world",
+    "Desc": "Analysis on different types of cancer and their effects on the world",
+    "GitHubRepo": "https://jonahbyther.shinyapps.io/cancerworld/",
+    "MainImage": "SupremeCard.jpg",
+    "DetailImages": ["SupremeCard.jpg", "SupremeCard.jpg", "SupremeCard.jpg"]
   },
   "Project3": {
     "Title": "",
