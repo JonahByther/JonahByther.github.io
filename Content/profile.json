@@ -29,14 +29,14 @@
     "Title": "The Supreme Card",
     "Desc": "This project is the future of the Digital Wallet. Never make another decision of what credit card to use again",
     "GitHubRepo": "https://github.com/JonahByther/CSC3150-System-Design",
-    "MainImage": "World.JPG",
+    "MainImage": "SupremeCard.jpg",
     "DetailImages": ["SupremeCard.jpg", "SupremeCard.jpg", "SupremeCard.jpg"]
     },
   "Project2": {
     "Title": "Data analysis on cancer in the world",
     "Desc": "Analysis on different types of cancer and their effects on the world",
     "GitHubRepo": "https://jonahbyther.shinyapps.io/cancerworld/",
-    "MainImage": "SupremeCard.jpg",
+    "MainImage": "World.JPG",
     "DetailImages": ["SupremeCard.jpg", "SupremeCard.jpg", "SupremeCard.jpg"]
   },
   "Project3": {
