@@ -27,11 +27,11 @@
     "Certifications": "AWS Certified Developer"
   },
   "Project3": {
-    "Title": "The Supreme Card",
-    "Desc": "This project is the future of the Digital Wallet. Never make another decision of what credit card to use again",
-    "GitHubRepo": "https://github.com/JonahByther/CSC3150-System-Design",
+    "Title": "Rust Parser",
+    "Desc": "Created a parser in Rust that checked if the code passes lexical and syntax analysis, then displays it in either Prolog or Scheme",
+    "GitHubRepo": "",
     "MainImage": "SupremeCard.jpg",
-    "DetailImages": ["SupremeCard.jpg", "SupremeCard.jpg", "SupremeCard.jpg"]
+    "DetailImages": []
     },
   "Project2": {
     "Title": "Data analysis on cancer in the world",
