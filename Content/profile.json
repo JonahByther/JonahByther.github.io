@@ -26,7 +26,7 @@
     "Resume": "Jonah Byther Resume.docx",
     "Certifications": "AWS Certified Developer"
   },
-  "Project1": {
+  "Project3": {
     "Title": "The Supreme Card",
     "Desc": "This project is the future of the Digital Wallet. Never make another decision of what credit card to use again",
     "GitHubRepo": "https://github.com/JonahByther/CSC3150-System-Design",
@@ -40,18 +40,18 @@
     "MainImage": "World.JPG",
     "DetailImages": ["cancer.JPG", "cancer.JPG", "cancer.JPG"]
   },
-  "Project3": {
-    "Title": "",
-    "Desc": "",
+  "Project1": {
+    "Title": "H-Mobile",
+    "Desc": "Created an Android App that serves as controller for a robot. Features including: movement, grabbing/lifting, voice control, Lidar mapping and movement. I implemented the lidar and mapping for autonomous navigation",
     "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
+    "MainImage": "H-Mobile.JPG",
+    "DetailImages": ["Settings.JPG", "Nav.JPG"]
   },
   "Project4": {
-    "Title": "",
-    "Desc": "",
+    "Title": "Web-Crawler",
+    "Desc": "Web-Crawler in Python to scrape the internet and create a directed graph between websites that have other website's hrefs",
     "GitHubRepo": "",
-    "MainImage": "",
+    "MainImage": "graph.JPG",
     "DetailImages": []
   }
 }
