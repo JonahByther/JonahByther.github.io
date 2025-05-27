@@ -30,7 +30,7 @@
     "Title": "Rust Parser",
     "Desc": "Created a parser in Rust that checked if the code passes lexical and syntax analysis, then displays it in either Prolog or Scheme",
     "GitHubRepo": "",
-    "MainImage": "rustparser.jpg",
+    "MainImage": "rustparser.JPG",
     "DetailImages": []
     },
   "Project2": {
