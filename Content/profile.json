@@ -4,7 +4,7 @@
     "Currently": "Computer Science Student",
     "Headshot": "you.JPG",
     "Thumbnail": "you.JPG",
-    "AboutText": "Hi, I am Jonah Byther. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers."
+    "AboutText": "Hi, I am Jonah Byther. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers. I love dealing with numbers and anything to do with them. I love watching and playing sports, especially football and soccer. "
   },
   "Contact": {
     "EMail": "bytherj@spu.edu",
@@ -21,7 +21,7 @@
     "Employment": "Safeway",
     "Role": "Produce Clerk",
     "EmploymentText": "I go through the produce and throw away all the bad produce and put out the good produce.",
-    "Skills": ["C++", " JavaScript", " CSS", " HTML", " Rust"],
+    "Skills": ["C++", " JavaScript", " CSS", " HTML", " Rust", " Kotlin", " Python", " Linux", " Docker", " R-Studio", " ROS"],
     "SkillsText": "I am a fast learner, have good people skills, and have great attention to detail.",
     "Resume": "Jonah Byther Resume.docx",
     "Certifications": "AWS Certified Developer"
